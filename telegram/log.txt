@@ -1,0 +1,261 @@
+Array
+(
+    [update_id] => 946697528
+    [message] => Array
+        (
+            [message_id] => 87
+            [from] => Array
+                (
+                    [id] => 23520120
+                    [is_bot] => 
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [language_code] => en-RU
+                )
+
+            [chat] => Array
+                (
+                    [id] => 23520120
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [type] => private
+                )
+
+            [date] => 1540031361
+            [text] => gdf
+        )
+
+)
+
+Array
+(
+    [update_id] => 946697529
+    [message] => Array
+        (
+            [message_id] => 88
+            [from] => Array
+                (
+                    [id] => 23520120
+                    [is_bot] => 
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [language_code] => en-RU
+                )
+
+            [chat] => Array
+                (
+                    [id] => 23520120
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [type] => private
+                )
+
+            [date] => 1540031363
+            [text] => арпоа
+        )
+
+)
+
+Array
+(
+    [update_id] => 946697531
+    [message] => Array
+        (
+            [message_id] => 90
+            [from] => Array
+                (
+                    [id] => 23520120
+                    [is_bot] => 
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [language_code] => en-RU
+                )
+
+            [chat] => Array
+                (
+                    [id] => 23520120
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [type] => private
+                )
+
+            [date] => 1540031523
+            [text] => sfds
+        )
+
+)
+
+Array
+(
+    [update_id] => 946697530
+    [message] => Array
+        (
+            [message_id] => 89
+            [from] => Array
+                (
+                    [id] => 23520120
+                    [is_bot] => 
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [language_code] => en-RU
+                )
+
+            [chat] => Array
+                (
+                    [id] => 23520120
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [type] => private
+                )
+
+            [date] => 1540031521
+            [text] => 123
+        )
+
+)
+
+Array
+(
+    [update_id] => 946697532
+    [message] => Array
+        (
+            [message_id] => 91
+            [from] => Array
+                (
+                    [id] => 23520120
+                    [is_bot] => 
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [language_code] => en-RU
+                )
+
+            [chat] => Array
+                (
+                    [id] => 23520120
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [type] => private
+                )
+
+            [date] => 1540031741
+            [text] => fdsafs
+        )
+
+)
+
+Array
+(
+    [update_id] => 946697533
+    [message] => Array
+        (
+            [message_id] => 93
+            [from] => Array
+                (
+                    [id] => 23520120
+                    [is_bot] => 
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [language_code] => en-RU
+                )
+
+            [chat] => Array
+                (
+                    [id] => 23520120
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [type] => private
+                )
+
+            [date] => 1540032480
+            [text] => sdfs
+        )
+
+)
+
+Array
+(
+    [update_id] => 946697534
+    [message] => Array
+        (
+            [message_id] => 94
+            [from] => Array
+                (
+                    [id] => 23520120
+                    [is_bot] => 
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [language_code] => en-RU
+                )
+
+            [chat] => Array
+                (
+                    [id] => 23520120
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [type] => private
+                )
+
+            [date] => 1540032481
+            [text] => йо
+        )
+
+)
+
+Array
+(
+    [update_id] => 946697535
+    [message] => Array
+        (
+            [message_id] => 95
+            [from] => Array
+                (
+                    [id] => 23520120
+                    [is_bot] => 
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [language_code] => en-RU
+                )
+
+            [chat] => Array
+                (
+                    [id] => 23520120
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [type] => private
+                )
+
+            [date] => 1540032532
+            [text] => йо
+        )
+
+)
+
+Array
+(
+    [update_id] => 946697536
+    [message] => Array
+        (
+            [message_id] => 96
+            [from] => Array
+                (
+                    [id] => 23520120
+                    [is_bot] => 
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [language_code] => en-RU
+                )
+
+            [chat] => Array
+                (
+                    [id] => 23520120
+                    [first_name] => Yan
+                    [username] => desirek3122
+                    [type] => private
+                )
+
+            [date] => 1540032751
+            [text] => привет
+        )
+
+)
+
